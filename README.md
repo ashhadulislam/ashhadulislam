@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Ashhad, Fullstack developer from <img src="https://www.flaticon.com/svg/vstatic/svg/317/317528.svg?token=exp=1616706839~hmac=d80a4b3c5ff25fc2f66a9c71355bec5c" width="13"/> <b>Kolkata, India</b>, currently living in <img src="https://www.flaticon.com/svg/vstatic/svg/555/555660.svg?token=exp=1616706914~hmac=dbd0392dd17c0735fb468ca74469da0f" width="13"/> <b>Doha, Qatar</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
