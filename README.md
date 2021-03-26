@@ -20,21 +20,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ashhadulislam/scrape-playstore"><b>React PullToRefresh component</b></a></td>      
+      <td><a href="https://github.com/ashhadulislam/scrape-playstore"><b>WordCloud From Google Playstore</b></a></td>      
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><a href="https://github.com/ashhadulislam/sentiment-analysis"><b>Generic Sentiment Analysis Library</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href="https://github.com/ashhadulislam/upgrad_chatbot"><b>Chatbot fot assistance inr estaurant search</b></a></td>
     </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
+  <li><a href="https://medium.com/tech-that-works/democratising-data-science-one-step-at-a-time-ccbb3640cced"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Democratizing Data Science</b></a><br/><i>Generic Review Scraper for any Android App</i></li>
+  <li><a href="https://medium.com/the-innovation/gentle-introduction-to-cryptography-c78529f37c54"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Gentle Introduction To Cryptography</b></a><br/><i>The world of Alice, Bob and the incorrigible Oscar</i></li>
+  <li><a href="https://medium.com/tech-that-works/aws-kinesis-data-streams-using-python-part-1-197a37552fe6"><b>Using AWS Kinesis Data Streams</b></a><br/><i>Reading and Writing AWS Kinesis Data Stream using Python</i></li>
   <li><a href="https://medium.com/dev-genius/hi-interested-by-a-once-in-a-lifetime-opportunity-1777c889127c"><b>Hi, Interested by a Once-in-a-Lifetime Opportunity?</b></a><br/><i>A perfectly suited job position for those aiming for the sky.</i></li>
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
