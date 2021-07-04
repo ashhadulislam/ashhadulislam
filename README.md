@@ -20,18 +20,23 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/ashhadulislam/hard-hat-detection"><b>Hard Hat Detection - From Data collection to testing</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ashhadulislam/scrape-playstore"><b>WordCloud From Google Playstore</b></a></td>      
     </tr>
     <tr>
       <td><a href="https://github.com/ashhadulislam/sentiment-analysis"><b>Generic Sentiment Analysis Library</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ashhadulislam/upgrad_chatbot"><b>Chatbot fot assistance inr estaurant search</b></a></td>
+      <td><a href="https://github.com/ashhadulislam/upgrad_chatbot"><b>Chatbot fot assistance in restaurant search</b></a></td>
     </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
 <ul>
+	
+    <li><a href="https://medium.com/tech-that-works/hard-hat-detection-end-to-end-deep-neural-network-b6ad3e4bfb18"><b> 👷 Detection Of Hard Hats</b></a><br/><i>From data collection to testing</i></li>
   <li><a href="https://medium.com/tech-that-works/democratising-data-science-one-step-at-a-time-ccbb3640cced"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Democratizing Data Science</b></a><br/><i>Generic Review Scraper for any Android App</i></li>
   <li><a href="https://medium.com/the-innovation/gentle-introduction-to-cryptography-c78529f37c54"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Gentle Introduction To Cryptography</b></a><br/><i>The world of Alice, Bob and the incorrigible Oscar</i></li>
   <li><a href="https://medium.com/tech-that-works/aws-kinesis-data-streams-using-python-part-1-197a37552fe6"><b>Using AWS Kinesis Data Streams</b></a><br/><i>Reading and Writing AWS Kinesis Data Stream using Python</i></li>
