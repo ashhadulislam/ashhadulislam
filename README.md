@@ -54,7 +54,7 @@ I'm Ashhad, Machine Learning Engineer from
 <p><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock1.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock2.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock3.jpeg" /><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock6.jpeg" /></p>
 
 
-<h3>Some memories of <img src="https://cdn-icons-png.flaticon.com/512/8238/8238418.png" width="13"/> Doha!</h3>
+<h3>Fond memories of <img src="https://cdn-icons-png.flaticon.com/512/8238/8238418.png" width="13"/> Doha!</h3>
 <p><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img1.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img11.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img3.jpeg" /></p>
 
 <h3>Where to find me</h3>
