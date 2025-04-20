@@ -51,6 +51,8 @@ I'm Ashhad, Machine Learning Engineer from
 </ul>
 
 <h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/2417/2417781.png" width="13"/> Stockholm!</h3>
+<p><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock1.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock2.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock3.jpeg" /><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock4.jpeg" /><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock5.jpeg" /><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/stock6.jpeg" /></p>
+
 
 <h3>Some memories of <img src="https://cdn-icons-png.flaticon.com/512/8238/8238418.png" width="13"/> Doha!</h3>
 <p><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img1.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img11.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img3.jpeg" /></p>
