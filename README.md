@@ -50,7 +50,9 @@ I'm Ashhad, Machine Learning Engineer from
   <li><a href="https://medium.com/tech-that-works/cloud-kafka-connector-for-mongodb-source-8b525b779772"><b>Connecting Kafka to MongoDB Source</b></a><br/><i>The cloud is … never that far away</i></li>
 </ul>
 
-<h3>Welcome to <img src="https://www.flaticon.com/svg/vstatic/svg/555/555660.svg?token=exp=1616706914~hmac=dbd0392dd17c0735fb468ca74469da0f" width="13"/> Doha!</h3>
+<h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/2417/2417781.png" width="13"/> Stockholm!</h3>
+
+<h3>Some memories of <img src="https://cdn-icons-png.flaticon.com/512/8238/8238418.png" width="13"/> Doha!</h3>
 <p><img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img1.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img11.jpeg" /> <img width="200" src="https://github.com/ashhadulislam/ashhadulislam/blob/main/img3.jpeg" /></p>
 
 <h3>Where to find me</h3>
