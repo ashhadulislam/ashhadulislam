@@ -34,7 +34,7 @@ I'm Ashhad, Machine Learning Engineer from
       <td><a href="https://github.com/ashhadulislam/sentiment-analysis"><b>Generic Sentiment Analysis Library</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ashhadulislam/upgrad_chatbot"><b>Chatbot fot assistance in restaurant search</b></a></td>
+      <td><a href="https://github.com/ashhadulislam/upgrad_chatbot"><b>Chatbot for assistance in restaurant search</b></a></td>
     </tr>
   </tbody>
 </table>
